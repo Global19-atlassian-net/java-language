@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.101.11](https://www.github.com/googleapis/java-language/compare/v1.101.10...v1.101.11) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#368](https://www.github.com/googleapis/java-language/issues/368)) ([85e966a](https://www.github.com/googleapis/java-language/commit/85e966a9a65aedde5b93173993cd06c94cf629aa))
+
 ### [1.101.10](https://www.github.com/googleapis/java-language/compare/v1.101.9...v1.101.10) (2021-01-14)
 
 
